@@ -42,12 +42,12 @@ $apps = @(
     "Git.Git",
     "GitHub.GitHubDesktop",
     "Google.Chrome",
-    "VideoLAN.VLC",
     "OpenJS.NodeJS",
     "Eugeny.Termius",
     "RARLab.WinRAR",
     "Oracle.MySQLWorkbench",
-    "Docker.DockerDesktop"
+    "Docker.DockerDesktop",
+    "VideoLAN.VLC",
 )
 
 foreach ($app in $apps) {
