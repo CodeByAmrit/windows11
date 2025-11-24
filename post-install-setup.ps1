@@ -46,7 +46,8 @@ $apps = @(
     "OpenJS.NodeJS",
     "Eugeny.Termius",
     "RARLab.WinRAR",
-    "Oracle.MySQLWorkbench"
+    "Oracle.MySQLWorkbench",
+    "Docker.DockerDesktop"
 )
 
 foreach ($app in $apps) {
